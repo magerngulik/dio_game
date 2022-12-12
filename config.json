@@ -1,0 +1,10 @@
+{
+    "modules": [
+        "main_screens",
+        "detail_screens",
+        "navigator",
+        "splash_screens",
+        "profile_screens",
+        "login_screens"
+    ]
+}
